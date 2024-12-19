@@ -75,3 +75,28 @@ button img{
     width: 20px;
     cursor: pointer;
 }
+
+@media (max-width:750px) {
+
+    .container{
+    max-width: 450px;
+    }
+
+    .container h1{
+        font-size: 20px
+    }
+
+    input{
+        width: 60%;
+    }
+
+    button{
+    padding: 5px 10px;
+
+    }
+
+    
+button img{
+    width: 10px;
+}
+}
