@@ -80,6 +80,8 @@ button img{
 
     .container{
     max-width: 450px;
+    margin-left: 80px;
+
     }
 
     .container h1{
@@ -99,4 +101,5 @@ button img{
 button img{
     width: 10px;
 }
+    
 }
